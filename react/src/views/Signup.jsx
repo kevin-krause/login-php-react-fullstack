@@ -49,9 +49,9 @@ export const Signup = () => {
                     type="password"
                     placeholder="Password Confirmation"
                 />
-                <button className="btn btn-block">Login</button>
+                <button className="btn btn-block">Sign in</button>
                 <p className="message">
-                    Already registered? <Link to="/login">Sign in</Link>
+                    Already registered? <Link to="/login">Log in</Link>
                 </p>
             </form>
         </div>
