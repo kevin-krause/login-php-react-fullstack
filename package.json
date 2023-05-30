@@ -12,6 +12,7 @@
         "vite": "^4.0.0"
     },
     "dependencies": {
+        "prop-types": "^15.8.1",
         "react-router-dom": "^6.11.2"
     }
 }
